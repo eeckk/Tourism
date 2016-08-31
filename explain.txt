@@ -1,0 +1,4 @@
+旅游景点在线浏览购票评论
+Tourism--------用户端 android
+TourismServer--服务器 myEclipse
+tourism.sql----数据库文件
